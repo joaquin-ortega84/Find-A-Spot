@@ -1,4 +1,4 @@
-plotly
+plotly==5.15.0
 geopandas
 pandas
 
