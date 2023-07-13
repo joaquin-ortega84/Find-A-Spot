@@ -11,7 +11,7 @@ st.subheader('Rental prices in Barcelona by neighborhood')
 st.write('Compare the average monthly rental price between neighborhoods in Barcelona')
 
 # Map 1 - Prices per month
-df = pd.read_csv('/Users/joaquinortega/code/joaquin-ortega84/Find-A-Spot/Data/CSV clean/precios_clean.csv')
+df = pd.read_csv('../CSV clean/precios_clean.csv')
 
 # Load GeoJSON file
 geojson_file = "/Users/joaquinortega/code/joaquin-ortega84/Find-A-Spot/Data/barris.geojson"
