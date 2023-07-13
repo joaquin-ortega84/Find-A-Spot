@@ -44,11 +44,7 @@ fig.update_layout(
 # Display the map using Streamlit
 st.plotly_chart(fig)
 
-
-
-
 st.markdown('---')
-
 
 st.subheader('Local stores in Barcelona by activity segment')
 st.write('Browse the locations and concentration of different types of local stores in Barcelona')
