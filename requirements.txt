@@ -1,3 +1,6 @@
 plotly
 geopandas
 pandas
+
+#For streamlit
+protobuf
